@@ -1,0 +1,1 @@
+cout>>"Ciao salve mondo";
